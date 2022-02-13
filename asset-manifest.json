@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/searchFilms-MNB1-React-/static/css/main.f079dae5.css",
+    "main.js": "/searchFilms-MNB1-React-/static/js/main.643797dd.js",
+    "index.html": "/searchFilms-MNB1-React-/index.html",
+    "main.f079dae5.css.map": "/searchFilms-MNB1-React-/static/css/main.f079dae5.css.map",
+    "main.643797dd.js.map": "/searchFilms-MNB1-React-/static/js/main.643797dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f079dae5.css",
+    "static/js/main.643797dd.js"
+  ]
+}
