@@ -38,7 +38,7 @@ export default class Main extends Component {
     return (
       <main className='container content'>
         <Search searchMovies={this.searchMovies} />
-        {loading ? (<Preloader /> 
+        {loading ? (<h3>abrakadabra</h3> 
         ) : (<MovieList movies={movies} />
         )}
       </main>
